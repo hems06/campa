@@ -1,0 +1,34 @@
+[
+  {
+    "id": "cae7941c-21aa-48c6-ae96-c0e926ff7574",
+    "email": "test@ksrce.ac.in",
+    "password": "$2b$10$61aF2b1w5GAdyrEeVXfRo.hJj09D/ZIORcPnz4grAKQMHUQPOBcky",
+    "name": "Test Student",
+    "department": "Computer Science",
+    "year": "3rd Year",
+    "bio": "",
+    "avatar": "",
+    "skills": [],
+    "interests": [],
+    "role": "student",
+    "isVerified": false,
+    "otp": "292162",
+    "createdAt": "2026-02-25T14:46:09.416Z"
+  },
+  {
+    "id": "7b9e49bd-0067-4bb2-a373-fa2161a936f7",
+    "email": "admin@ksrce.ac.in",
+    "password": "$2b$10$61aF2b1w5GAdyrEeVXfRo.hJj09D/ZIORcPnz4grAKQMHUQPOBcky",
+    "name": "Admin User",
+    "department": "Computer Science",
+    "year": "4th Year",
+    "bio": "",
+    "avatar": "",
+    "skills": [],
+    "interests": [],
+    "role": "student",
+    "isVerified": true,
+    "otp": null,
+    "createdAt": "2026-02-25T14:46:27.157Z"
+  }
+]

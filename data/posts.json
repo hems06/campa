@@ -1,0 +1,71 @@
+[
+  {
+    "id": "be35bc13-b273-4738-a00e-48f21d0897d3",
+    "authorId": "7b9e49bd-0067-4bb2-a373-fa2161a936f7",
+    "content": "Hello CampusConnect! Excited to be part of this community. Anyone else preparing for placements? #placements #coding #motivation",
+    "image": "",
+    "tags": [
+      "placements",
+      "coding",
+      "motivation"
+    ],
+    "isAnonymous": false,
+    "createdAt": "2026-02-25T14:46:27.571Z",
+    "updatedAt": "2026-02-25T14:46:27.571Z"
+  },
+  {
+    "id": "0eaa940a-b9f2-40d1-a642-865a456b738d",
+    "authorId": "7b9e49bd-0067-4bb2-a373-fa2161a936f7",
+    "content": "Struggling with DSA preparation. Anyone know good resources for dynamic programming? Been trying LeetCode but feeling stuck. Any senior who cracked it, please share your approach! #coding #exams #studytips",
+    "image": "",
+    "tags": [
+      "coding",
+      "exams",
+      "studytips"
+    ],
+    "isAnonymous": false,
+    "createdAt": "2026-02-25T14:47:13.451Z",
+    "updatedAt": "2026-02-25T14:47:13.451Z"
+  },
+  {
+    "id": "6252622d-12b7-4209-a8fb-ab68434e411a",
+    "authorId": "7b9e49bd-0067-4bb2-a373-fa2161a936f7",
+    "content": "Just got my first internship offer from a startup! The interview was all about React and Node.js. Hard work pays off. Keep going everyone! #placements #internships #achievements #motivation",
+    "image": "",
+    "tags": [
+      "placements",
+      "internships",
+      "achievements",
+      "motivation"
+    ],
+    "isAnonymous": false,
+    "createdAt": "2026-02-25T14:47:13.463Z",
+    "updatedAt": "2026-02-25T14:47:13.463Z"
+  },
+  {
+    "id": "16f8929c-bc3d-428c-ae51-f880163cafe1",
+    "authorId": "7b9e49bd-0067-4bb2-a373-fa2161a936f7",
+    "content": "Can we talk about how stressful final year is? Between placements, projects, and exams, I barely get sleep. Remember to take care of yourselves. Your mental health matters more than any CGPA.",
+    "image": "",
+    "tags": [
+      "mentalhealth",
+      "hostellife"
+    ],
+    "isAnonymous": true,
+    "createdAt": "2026-02-25T14:47:13.483Z",
+    "updatedAt": "2026-02-25T14:47:13.483Z"
+  },
+  {
+    "id": "fe102555-7acf-4f3c-9a3b-96bef48d8c74",
+    "authorId": "7b9e49bd-0067-4bb2-a373-fa2161a936f7",
+    "content": "hii",
+    "image": "/uploads/0651e9f7-15d2-4a5a-a18e-d10480360a36.jpeg",
+    "tags": [
+      "exams",
+      "placements"
+    ],
+    "isAnonymous": false,
+    "createdAt": "2026-02-25T15:00:00.259Z",
+    "updatedAt": "2026-02-25T15:00:00.259Z"
+  }
+]
